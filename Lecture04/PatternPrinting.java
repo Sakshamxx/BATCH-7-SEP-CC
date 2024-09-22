@@ -81,7 +81,7 @@ public class PatternPrinting {
     }
 
     public static void main(String[] args) {
-        int n=5;
+        int n=4;
         // printSquare(n);
         // printILFT(n);
         // printCross(n);
