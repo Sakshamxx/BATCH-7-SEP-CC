@@ -14,8 +14,6 @@ public class Function {
         }else
         return false;
     } 
-
-    
     static void ReverseNum(int n){
         int temp=0;
         while(n>0){
@@ -27,7 +25,7 @@ public class Function {
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("ENTER THE NUMBER: ");
+        System.out.print("ENTER THE NUMBER : ");
         int x=sc.nextInt();
         // System.out.println(IsArmstrong(x));
         ReverseNum(x);
