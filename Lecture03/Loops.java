@@ -36,7 +36,7 @@ public class Loops {
         // for(int i=0, j=1;i<j && j<n; i++, j++){
         //     System.out.println(i+" "+j);
         // }
-        int i=10;
+        int i=11;
         do{
             System.out.println(1);
         }while(i<10);

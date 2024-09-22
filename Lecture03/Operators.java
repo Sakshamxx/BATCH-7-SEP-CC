@@ -17,6 +17,6 @@ public class Operators {
         // int a=5;
         // int b=-3;
          // b= a+b
-        System.out.println(5>>3);
+        System.out.println(4>>3);
     }
 }
