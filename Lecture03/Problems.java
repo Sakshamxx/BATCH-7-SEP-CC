@@ -10,6 +10,7 @@ public class Problems {
         //Find if N is prime or not
 
         boolean b=true; //Number is prime or not
+        sc.close();
 
         for(int i=2; i<n;i++){
             if(n%i==0){

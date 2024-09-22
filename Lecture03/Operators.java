@@ -14,8 +14,8 @@ public class Operators {
         //     System.out.println("X lies withing (5,10)");
 
         //Assignment Operators
-        int a=5;
-        int b=-3;
+        // int a=5;
+        // int b=-3;
          // b= a+b
         System.out.println(5>>3);
     }
