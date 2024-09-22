@@ -15,6 +15,7 @@ public class Problems {
             if(n%i==0){
                 b=false;
                 break;
+                
             }
                 
         }
