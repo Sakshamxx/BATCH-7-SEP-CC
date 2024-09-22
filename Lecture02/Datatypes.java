@@ -15,7 +15,7 @@ public class Datatypes {
         // char c='c'; //A = 65, a= 97
         byte b1= Byte.MIN_VALUE;
         byte b2= Byte.MAX_VALUE;
-        System.out.println(b1+" "+b2);
+        System.out.println(b1+"  "+b2);
         // System.out.println(maxInt +" "+ maxSh);
         // System.out.println(miniInt+" "+ miniSh);
         //11.012378992389472
